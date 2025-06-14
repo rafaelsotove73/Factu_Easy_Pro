@@ -50,11 +50,9 @@ El sistema está organizado en módulos interconectados para cubrir todas las á
 
 Una vista previa de la interfaz de usuario y las funcionalidades clave del sistema.
 
-| Formulario de Empresa | Listado y Acciones | Menús de Navegación |
+| Formulario de Empresa | Listado y Acciones | Galería Completa |
 | :---: | :---: | :---: |
-| ![Formulario de Datos de la Empresa](URL_A_TU_IMAGEN_1) | ![Listado de Empresas Registradas](URL_A_TU_IMAGEN_2) | ![Menús del Sistema](URL_A_TUS_IMAGENES_DE_MENU) |
-
-*(**Nota para ti:** Para que esto funcione, crea una carpeta en tu repositorio, por ejemplo, llamada `.github/images/`, sube tus capturas de pantalla allí y reemplaza `URL_A_TU_IMAGEN_...` con el enlace directo a cada imagen en GitHub).*
+| <img src="https://github.com/rafaelsotove73/Factu_Easy_Pro/raw/main/menu/nombre-de-tu-imagen-1.png" alt="Formulario de Empresa" width="250"> | <img src="https://github.com/rafaelsotove73/Factu_Easy_Pro/raw/main/menu/nombre-de-tu-imagen-2.png" alt="Listado de Empresas" width="250"> | <a href="https://github.com/rafaelsotove73/Factu_Easy_Pro/tree/main/menu"><h3>📂 Ver Galería Completa</h3><p>(7+ imágenes)</p></a> |
 
 ---
 
@@ -112,7 +110,7 @@ Si deseas ejecutar este proyecto en un entorno local, sigue estos pasos:
     python manage.py runserver
     ```
 
-7.  Abre tu navegador y ve a `http://127.0.0.1:8000` para ver la aplicación.
+7.  Abre tu navegador y ve a `http://120.0.0.1:8000` para ver la aplicación.
 
 </details>
 
