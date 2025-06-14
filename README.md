@@ -52,7 +52,7 @@ Una vista previa de la interfaz de usuario y las funcionalidades clave del siste
 
 | Formulario de Empresa | Listado y Acciones | Galería Menus |
 | :---: | :---: | :---: |
-| <img src="https://github.com/rafaelsotove73/Factu_Easy_Pro/raw/main/Menu/nombre-de-tu-imagen-1.png" alt="Formulario de Empresa" width="250"> | <img src="https://github.com/rafaelsotove73/Factu_Easy_Pro/raw/main/Menu/nombre-de-tu-imagen-2.png" alt="Listado de Empresas" width="250"> | <a href="https://github.com/rafaelsotove73/Factu_Easy_Pro/tree/main/Menu" style="text-decoration: none; color: inherit;"><strong>📂 Ver Galería Completa Menus</strong><br>(7+ imágenes)</a> |
+| href="https://github.com/rafaelsotove73/Factu_Easy_Pro/tree/main/Formulario" style="text-decoration: none; color: inherit;"><strong>📂 Ver Galería Completa Formularios</strong><br>(39+ imágenes)</a> | <img src="https://github.com/rafaelsotove73/Factu_Easy_Pro/raw/main/Menu/nombre-de-tu-imagen-2.png" alt="Listado de Empresas" width="250"> | <a href="https://github.com/rafaelsotove73/Factu_Easy_Pro/tree/main/Menu" style="text-decoration: none; color: inherit;"><strong>📂 Ver Galería Completa Menus</strong><br>(7+ imágenes)</a> |
 
 ---
 
